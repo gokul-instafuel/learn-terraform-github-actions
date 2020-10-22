@@ -9,7 +9,7 @@ terraform {
   }
 
   backend "remote" {
-    organization = "Instafuel"
+    organization = "INSTAFUEL"
 
     workspaces {
       name = "gh-actions-demo"
